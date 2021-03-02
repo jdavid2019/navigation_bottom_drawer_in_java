@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "example_nav_drawer_bottom"
